@@ -1,0 +1,28 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore datasets and logs
+Notes-Learning_ML-DataCamp/
+Notes-NLP Track/
+plans/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore test files
+test.ipynb
+test.py
+test1.ipynb
+test1.py
+test2.ipynb
+test2.py
+test3.ipynb
+test3.py
